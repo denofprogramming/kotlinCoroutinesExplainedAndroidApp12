@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Coroutine Application</string>
+    <string name="loadImages">Load</string>
+    <string name="canceljob">Cancel</string>
+    <string name="loadingImage">Downloading...</string>
+    <string name="loadingImageError">A problem occurred downloading... \n %1$s</string>
+    <string name="loaded">Download Successful!</string>
+    <string name="noneLoaded">No Image to Display.</string>
+    <string name="noImageProvided">No Image provided.</string>
+
+</resources>
